@@ -1,6 +1,6 @@
 {
   "name": "poster-prro-kit",
-  "version": "0.0.154.CommonJS",
+  "version": "0.0.155",
   "main": "dist/index.js",
   "scripts": {
     "lint": "eslint -c .eslintrc.yaml .",
